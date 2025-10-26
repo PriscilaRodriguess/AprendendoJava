@@ -1,4 +1,4 @@
-package classes_encapsulamento;
+package classes_encapsulamento.Exercicio_3;
 
 public class Pet {
 
